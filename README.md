@@ -7,9 +7,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lipaodev&layout=compact)](https://github.com/Lipaodev/github-readme-stats)
 
 <p align = "center"> 
-  <i> Vamos nos conectar e bater um papo? : recebido_envelope: </i>
-</p>
-
+  <i> Vamos nos conectar e bater um papo!   </i>
+  </p>
+  
 <p align = "center">
   <a href="https://www.linkedin.com/in/felipe-alvees/"> <img src = "https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" largura = "30px" alt = "LinkedIn"> </a> & nbsp; & nbsp;
 
