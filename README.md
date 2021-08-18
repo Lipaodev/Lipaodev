@@ -2,9 +2,18 @@
 
 🧠 Estudante de programação, voltada a Kotlin 💻
 
-[Estatísticas do GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Lipaodev = anuraghazra & show_icons = true & theme = escuro )
+![Lipaodv GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipaodev&show_icons=true&theme=dark)
 
-[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Lipaodev = anuraghazra & layout = compact )] (https://github.com/anuraghazra/github-readme- Estatísticas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lipaodev&layout=compact)](https://github.com/Lipaodev/github-readme-stats)
+
+<p align = "center"> 
+  <i> Vamos nos conectar e bater um papo? : recebido_envelope: </i>
+</p>
+
+<p align = "center">
+  <a href="https://www.linkedin.com/in/felipe-alvees/"> <img src = "https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" largura = "30px" alt = "LinkedIn"> </a> & nbsp; & nbsp;
+
+
 
 <!--
 **Lipaodev/Lipaodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
