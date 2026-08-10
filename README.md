@@ -1,8 +1,8 @@
 ### Olá! Eu sou Felipe! 👋
 
-🧠 Estudante de programação, voltada a Kotlin 💻
+🧠 Maluco das ideia 💻
 
-🤓 Atualmente estou procurando uma oportunidade na área de programção para poder ampaliar e aperfeiçoar meus conhecimentos.
+🤓 To aqui fazendo uns projetos e é isso, fds.
 
 ![Lipaodv GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipaodev&show_icons=true&theme=dark)
 
