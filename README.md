@@ -1,19 +1,20 @@
-### Olá! Eu sou Felipe! 👋
+### Olá! Eu sou o Felipe! 👋
 
-🧠 Maluco das ideia 💻
+**Analista de Infraestrutura de TI | DevOps**
 
-🤓 To aqui fazendo uns projetos e é isso, fds.
+Apaixonado por tecnologia, automação e self-hosting. Por aqui, você vai encontrar desde experimentações no meu homelab (Proxmox, K3s, Docker) até projetos de desenvolvimento full-stack.
+
+Quando não estou gerenciando servidores ou automatizando rotinas, estou codando novas ideias.
 
 ![Lipaodv GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipaodev&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lipaodev&layout=compact)](https://github.com/Lipaodev/github-readme-stats)
 
-<p align = "center"> 
-  <i> Vamos nos conectar e bater um papo!   </i>
-  </p>
+<p align="center">
+  <i>Vamos nos conectar e bater um papo!</i>
+</p>
   
- <p align = "center">
- <a href="https://www.linkedin.com/in/felipe-alvees" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:felipebalves10@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </p>
- 
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-alvees" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:felipebalves10@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
