@@ -6,10 +6,6 @@ Apaixonado por tecnologia, automação e self-hosting. Por aqui, você vai encon
 
 Quando não estou gerenciando servidores ou automatizando rotinas, estou codando novas ideias.
 
-![Lipaodv GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipaodev&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lipaodev&layout=compact)](https://github.com/Lipaodev/github-readme-stats)
-
 <p align="center">
   <i>Vamos nos conectar e bater um papo!</i>
 </p>
